@@ -1,0 +1,568 @@
+[
+  {
+    "exercise_id": 1,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 1,
+    "source": {
+      "title": "De Bello Gallico",
+      "author": "Caesar",
+      "book": "1",
+      "line": "1"
+    },
+    "sentence": "Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter se differunt.",
+    "question": "Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter se ________.",
+    "options": null,
+    "answer": "differunt",
+    "answer_justification": "The sentence states that the Celts/Gauls differ from each other in language, customs, and laws."
+  },
+  {
+    "exercise_id": 2,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 2,
+    "source": {
+      "title": "Epistulae Morales ad Lucilium",
+      "author": "Seneca",
+      "book": "1",
+      "line": "1"
+    },
+    "sentence": "Lucili, nostrae vitae, si velis, ad exemplum, quidquid agimus, id ________.",
+    "question": "Lucili, nostrae vitae, si velis, ad exemplum, id ________.",
+    "options": [
+      "a) agitur",
+      "b) agemus",
+      "c) agi",
+      "d) agere"
+    ],
+    "answer": "c) agi",
+    "answer_justification": "The infinitive 'agi' is required after 'id' in this construction, meaning 'is to be done'."
+  },
+  {
+    "exercise_id": 3,
+    "needs_review": false,
+    "type": "main_verb",
+    "complexity": 1,
+    "source": {
+      "title": "De Officiis",
+      "author": "Cicero",
+      "book": "1",
+      "line": "10"
+    },
+    "sentence": "Nam cum [omnis] hominum multitudo, tum etiam civitatum maximae.",
+    "question": null,
+    "answer": "False",
+    "answer_justification": "'Omnis' is an adjective modifying 'multitudo', not the main verb of the sentence."
+  },
+  {
+    "exercise_id": 4,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 2,
+    "source": {
+      "title": "De Bello Gallico",
+      "author": "Caesar",
+      "book": "2",
+      "line": "1"
+    },
+    "sentence": "Ad hoc, ut quae essent in armis, omnia adduceret, et quod ________ latissimum est, quodque ex ea parte aditus est.",
+    "question": "Ad hoc, ut quae essent in armis, omnia adduceret, et quod ________ latissimum est, quodque ex ea parte aditus est.",
+    "answer": "flumen",
+    "answer_justification": "The context refers to geographical features, and 'flumen' (river) fits the description of being wide."
+  },
+  {
+    "exercise_id": 5,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 2,
+    "source": {
+      "title": "Epistulae Morales ad Lucilium",
+      "author": "Seneca",
+      "book": "2",
+      "line": "1"
+    },
+    "sentence": "Quid ergo? Non ________ cum eo qui non possit stare?",
+    "question": "Quid ergo? Non ________ cum eo qui non possit stare?",
+    "options": [
+      "a) loquimur",
+      "b) loqueris",
+      "c) loqui",
+      "d) loquitur"
+    ],
+    "answer": "c) loqui",
+    "answer_justification": "The infinitive 'loqui' is required after 'Non' in this rhetorical question, implying 'Is it not to speak...?'"
+  },
+  {
+    "exercise_id": 6,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 3,
+    "source": {
+      "title": "De Bello Gallico",
+      "author": "Caesar",
+      "book": "1",
+      "line": "1"
+    },
+    "sentence": "Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.",
+    "question": "Fill in the blank: Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli ________.",
+    "options": null,
+    "answer": "appellantur",
+    "answer_justification": "Third person plural passive indicative of 'appello', meaning 'they are called'."
+  },
+  {
+    "exercise_id": 7,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 4,
+    "source": {
+      "title": "Epistulae Morales ad Lucilium",
+      "author": "Seneca",
+      "book": "15",
+      "line": "1"
+    },
+    "sentence": "Si incedis in tenebris, aut lucem quaere aut ________.",
+    "question": "Select the correct option to complete the sentence.",
+    "options": [
+      "a) ignem",
+      "b) ignem accende",
+      "c) ignem accendisti",
+      "d) ignem accendebat"
+    ],
+    "answer": "b) ignem accende",
+    "answer_justification": "Imperative 'accende' matches the imperative 'quaere' in the preceding clause."
+  },
+  {
+    "exercise_id": 8,
+    "needs_review": false,
+    "type": "main_verb",
+    "complexity": 3,
+    "source": {
+      "title": "Aeneid",
+      "author": "Virgil",
+      "book": "1",
+      "line": "1"
+    },
+    "sentence": "Arma virumque cano, Troiae qui primus ab oris.",
+    "question": "Is '[cano]' the main verb?",
+    "options": null,
+    "answer": "True",
+    "answer_justification": "'Cano' is the first-person singular present active indicative of 'canere'."
+  },
+  {
+    "exercise_id": 9,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 5,
+    "source": {
+      "title": "De Officiis",
+      "author": "Cicero",
+      "book": "1",
+      "line": "10"
+    },
+    "sentence": "Nam cum sit honestum id unum quod sit ________, sequitur ut honestum sit quod sit utile.",
+    "question": "Fill in the blank: Nam cum sit honestum id unum quod sit ________, sequitur ut honestum sit quod sit utile.",
+    "options": null,
+    "answer": "honestum",
+    "answer_justification": "Repetition of 'honestum' for emphasis and logical connection."
+  },
+  {
+    "exercise_id": 10,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 5,
+    "source": {
+      "title": "Histories",
+      "author": "Tacitus",
+      "book": "1",
+      "line": "1"
+    },
+    "sentence": "Urbem Romam, ________ a Romulo, initio reges habuere.",
+    "question": "Select the correct option to complete the sentence.",
+    "options": [
+      "a) condita",
+      "b) conditam",
+      "c) condiderunt",
+      "d) condere"
+    ],
+    "answer": "b) conditam",
+    "answer_justification": "Accusative passive participle agreeing with 'Urbem Romam'."
+  },
+  {
+    "exercise_id": 11,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 4,
+    "source": {
+      "title": "De Officiis",
+      "author": "Cicero",
+      "book": "1",
+      "line": "20"
+    },
+    "sentence": "Nam ut quisque vir magnae __________ est, ita plerumque est miles.",
+    "question": "Fill in the blank with the correct word (virtue).",
+    "options": null,
+    "answer": "virtutis",
+    "answer_justification": "Genitive singular of 'virtus', meaning virtue."
+  },
+  {
+    "exercise_id": 12,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 5,
+    "source": {
+      "title": "Annales",
+      "author": "Tacitus",
+      "book": "1",
+      "line": "8"
+    },
+    "sentence": "Quodsi non omnia, at multa __________.",
+    "question": "Select the correct verb form.",
+    "options": [
+      "a) audiverit",
+      "b) audisset",
+      "c) audiverat",
+      "d) audiret"
+    ],
+    "answer": "d) audiret",
+    "answer_justification": "Imperfect subjunctive, fits the conditional context 'if not all, then many'."
+  },
+  {
+    "exercise_id": 13,
+    "needs_review": false,
+    "type": "main_verb",
+    "complexity": 4,
+    "source": {
+      "title": "Epistulae Morales ad Lucilium",
+      "author": "Seneca",
+      "book": "107",
+      "line": "1"
+    },
+    "sentence": "Sic est, Lucili, ut __________ homines, qui se ipsos oderunt.",
+    "answer": "False",
+    "answer_justification": "'Odierunt' is the main verb; 'qui' is a relative pronoun."
+  },
+  {
+    "exercise_id": 14,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 5,
+    "source": {
+      "title": "De Bello Gallico",
+      "author": "Caesar",
+      "book": "1",
+      "line": "13"
+    },
+    "sentence": "Ad quorum adventum __________ Helvetii, qui erant trans Rhenum, ad eos transierunt.",
+    "question": "Fill in the blank with the correct word (reported).",
+    "options": null,
+    "answer": "cognito",
+    "answer_justification": "Perfect passive participle, ablative absolute with 'adventum'."
+  },
+  {
+    "exercise_id": 15,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 4,
+    "source": {
+      "title": "De Bello Civili",
+      "author": "Caesar",
+      "book": "3",
+      "line": "45"
+    },
+    "sentence": "Caesar, cum id __________ cognovisset, copias suas eduxit.",
+    "question": "Select the correct pronoun.",
+    "options": [
+      "a) sibi",
+      "b) se",
+      "c) ei",
+      "d) illi"
+    ],
+    "answer": "b) se",
+    "answer_justification": "'Se' is the reflexive pronoun referring to Caesar."
+  },
+  {
+    "exercise_id": 16,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 6,
+    "source": {
+      "title": "De Officiis",
+      "author": "Cicero",
+      "book": "1",
+      "line": "76"
+    },
+    "sentence": "Quodsi omnia, quae dicentur, ________ (by the wise) probabuntur, quid est quod reprehendi possit?",
+    "question": null,
+    "options": null,
+    "answer": "a sapientibus",
+    "answer_justification": "Translates 'by the wise'; ablative of agent with passive verb."
+  },
+  {
+    "exercise_id": 17,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 7,
+    "source": {
+      "title": "Annales",
+      "author": "Tacitus",
+      "book": "1",
+      "line": "11.3"
+    },
+    "sentence": "Sed quid ________ (you all) de his, qui a me proferentur?",
+    "question": "Select the correct verb form:",
+    "options": [
+      "a) quaero",
+      "b) quaeritis",
+      "c) quaerimus",
+      "d) quaerunt"
+    ],
+    "answer": "b) quaeritis",
+    "answer_justification": "Second person plural present active indicative, matching 'vos' implied."
+  },
+  {
+    "exercise_id": 18,
+    "needs_review": false,
+    "type": "main_verb",
+    "complexity": 6,
+    "source": {
+      "title": "Epistulae Morales ad Lucilium",
+      "author": "Seneca",
+      "book": "7",
+      "line": "1"
+    },
+    "sentence": "Sic agam, ut ________ (I am living) mihi, non ut omnibus.",
+    "question": "Is 'vivam' the main verb?",
+    "options": null,
+    "answer": "True",
+    "answer_justification": "Subjunctive clause of purpose; 'vivam' is the main verb of that clause."
+  },
+  {
+    "exercise_id": 19,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 7,
+    "source": {
+      "title": "De Bello Gallico",
+      "author": "Caesar",
+      "book": "1",
+      "line": "2.3"
+    },
+    "sentence": "His rebus adducti, quod ________ (they had) ab hac tanta profectione periculum non timere, decreverunt ea, quae ad proficiscendum pertinebant, diligenter parabant.",
+    "question": null,
+    "options": null,
+    "answer": "non",
+    "answer_justification": "Negates the fear of danger; essential for the sentence's meaning."
+  },
+  {
+    "exercise_id": 20,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 7,
+    "source": {
+      "title": "Historiae",
+      "author": "Sallust",
+      "book": "3",
+      "line": "88M"
+    },
+    "sentence": "Iam in oculis ________ (was) omnium, quippe qui non modo non timuerit, sed etiam audacter cum hostibus congressus sit.",
+    "question": "Select the correct verb form:",
+    "options": [
+      "a) erat",
+      "b) esset",
+      "c) fuit",
+      "d) fuerat"
+    ],
+    "answer": "a) erat",
+    "answer_justification": "Imperfect indicative, describing a state in the past."
+  },
+  {
+    "exercise_id": 21,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 8,
+    "source": {
+      "title": "De Bello Gallico",
+      "author": "Caesar",
+      "book": "1",
+      "line": "3.1"
+    },
+    "sentence": "Helvetii quoque reliquos Gallos ________ (superare) virtute consuerunt.",
+    "question": null,
+    "options": null,
+    "answer": "superare",
+    "answer_justification": "Verb needed to complete the infinitive phrase 'reliquos Gallos superare'."
+  },
+  {
+    "exercise_id": 22,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 8,
+    "source": {
+      "title": "Epistulae Morales ad Lucilium",
+      "author": "Seneca",
+      "book": "15",
+      "line": "11"
+    },
+    "sentence": "Non est ad astra ________ via.",
+    "question": null,
+    "options": [
+      "a) mollis",
+      "b) mollem",
+      "c) molli",
+      "d) mollia"
+    ],
+    "answer": "a) mollis",
+    "answer_justification": "Adjective 'mollis' agrees with feminine noun 'via' in nominative case."
+  },
+  {
+    "exercise_id": 23,
+    "needs_review": false,
+    "type": "main_verb",
+    "complexity": 8,
+    "source": {
+      "title": "Aeneid",
+      "author": "Virgil",
+      "book": "1",
+      "line": "1"
+    },
+    "sentence": "Arma virumque cano, Troiae qui primus ab oris.",
+    "question": "Is 'cano' the main verb?",
+    "options": null,
+    "answer": "True",
+    "answer_justification": "'Cano' is the first-person singular present active indicative verb."
+  },
+  {
+    "exercise_id": 24,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 8,
+    "source": {
+      "title": "De Officiis",
+      "author": "Cicero",
+      "book": "1",
+      "line": "76"
+    },
+    "sentence": "Quod ________ (aequitas) est, id est iustum.",
+    "question": null,
+    "options": null,
+    "answer": "aequitas",
+    "answer_justification": "Nominative singular feminine noun 'aequitas' (equity) is the subject."
+  },
+  {
+    "exercise_id": 25,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 8,
+    "source": {
+      "title": "De Bello Gallico",
+      "author": "Caesar",
+      "book": "2",
+      "line": "15.2"
+    },
+    "sentence": "Hostes, proelio ________, omnibus copiis se receperunt.",
+    "question": null,
+    "options": [
+      "a) commisso",
+      "b) committere",
+      "c) commissa",
+      "d) committentes"
+    ],
+    "answer": "a) commisso",
+    "answer_justification": "Perfect passive participle 'commisso' agrees with ablative noun 'proelio'."
+  },
+  {
+    "exercise_id": 26,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 9,
+    "source": {
+      "title": "De Bello Gallico",
+      "author": "Caesar",
+      "book": "1",
+      "line": "30"
+    },
+    "sentence": "Caesar ad fines ________ (people living in the territory) pervenit.",
+    "question": null,
+    "options": null,
+    "answer": "Helvetiorum",
+    "answer_justification": "Helvetii is the name of the people; Helvetiorum is their genitive plural."
+  },
+  {
+    "exercise_id": 27,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 10,
+    "source": {
+      "title": "Epistulae Morales ad Lucilium",
+      "author": "Seneca",
+      "book": "12",
+      "line": "1"
+    },
+    "sentence": "Quid est enim aliud beneficium, nisi quoddam ________ beneficium?",
+    "question": "Choose the correct form of 'beneficium' to complete the sentence.",
+    "options": [
+      "a) beneficium",
+      "b) beneficii",
+      "c) beneficio",
+      "d) benefacere"
+    ],
+    "answer": "c) beneficio",
+    "answer_justification": "Ablative of quality/description modifying 'quoddam'."
+  },
+  {
+    "exercise_id": 28,
+    "needs_review": false,
+    "type": "main_verb",
+    "complexity": 9,
+    "source": {
+      "title": "Metamorphoses",
+      "author": "Ovid",
+      "book": "1",
+      "line": "1"
+    },
+    "sentence": "In nova fert animus ________ (I am carrying) formas.",
+    "question": null,
+    "options": null,
+    "answer": "mutatas",
+    "answer_justification": "This is a participle modifying 'formas', not the main verb."
+  },
+  {
+    "exercise_id": 29,
+    "needs_review": false,
+    "type": "grammar",
+    "complexity": 9,
+    "source": {
+      "title": "De Officiis",
+      "author": "Cicero",
+      "book": "1",
+      "line": "104"
+    },
+    "sentence": "Quodsi omnia ________ (to be done) per se possent, quid opus esset aut agricola aut nautis?",
+    "question": "Choose the correct verb form.",
+    "options": [
+      "a) fierent",
+      "b) facta sunt",
+      "c) facta esse",
+      "d) fieri"
+    ],
+    "answer": "d) fieri",
+    "answer_justification": "Passive infinitive needed after 'possent' in indirect question."
+  },
+  {
+    "exercise_id": 30,
+    "needs_review": false,
+    "type": "vocabulary",
+    "complexity": 10,
+    "source": {
+      "title": "Annales",
+      "author": "Tacitus",
+      "book": "1",
+      "line": "10"
+    },
+    "sentence": "Sed ________ (fear) et ira, seu vera seu falsa, haud minus obsequium exuerant.",
+    "question": null,
+    "options": null,
+    "answer": "metus",
+    "answer_justification": "Metus means fear, fitting the context of emotions driving actions."
+  }
+]
