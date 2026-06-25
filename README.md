@@ -1,7 +1,9 @@
 PROJECT MINERVA
 ================
 Graduate Thesis project for MA in Digital Tools for Pre Modern Studies
+
 Thesis : https://www.proquest.com/docview/3344286994
+
 Author: Ivan F. Montalvo D.
 
 The project builds a pipeline that scores the complexity of Latin
